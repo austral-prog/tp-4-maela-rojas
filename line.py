@@ -25,4 +25,4 @@ def line():
     print(f"Dados los siguientes puntos:")
     print(f"\tP1 {P1}")
     print(f"\tP2 {P2}\n")
-    print(f"La distancia entre ellos es: {distancia}")    
+    print(f"La distancia entre ellos es: {distancia}")   
